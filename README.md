@@ -1,6 +1,6 @@
 <!-- Consider starring my repo @ https://github.com/reeveng/reeveng, much appreciated in advance! -->
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg" alt="Hey I'm juice mit apfeln drin, a.k.a. apple juice"/>
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg" alt="Hey I'm Deycphr"/>
 
 <!--
 
